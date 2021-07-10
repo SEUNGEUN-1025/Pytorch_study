@@ -1,2 +1,16 @@
-# Pytorch_study
-파이토치 스터디 한거 올릴
+# ✏️ Pytorch Study
+
+* 강의: Cousera > Deep Neural Networks with PyTorch
+* 기간: 21/06/29 ~ 
+* 연구실 친구들과 소박하게 공부 중..
+
+## 진
+
+|주차|내용|완료|
+|:---:|:------:|:---:|
+|1주차|Basic of torch.tensor|✔️|
+|2주차|Linear Regression Training|✔️|
+|3주차||
+|4주차||
+|5주차||
+|6주차||
