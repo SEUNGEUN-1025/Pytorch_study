@@ -10,7 +10,7 @@
 |:---:|:------:|:---:|
 |1주차|Basic of torch.tensor|✔️|
 |2주차|Linear Regression Training|✔️|
-|3주차||
+|3주차|Multi LR Training & Logistic Regression|✔️|
 |4주차||
 |5주차||
 |6주차||
